@@ -1,4 +1,4 @@
-Hi, I'm April 👋 I'm a Junior Developer and Artist!
+Hi, I'm April 👋 I'm a Junior Web Developer and Software Engineer!
 - 🔭 I’m currently working on a React.js App!
 - 🌱 I want to learn Python next
 - 💬 Ask me about JavaScript, HTML, CSS, React.js, Unreal Engine and Maya
